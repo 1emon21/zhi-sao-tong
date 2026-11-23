@@ -1,0 +1,13 @@
+__pycache__/ 
+*.pyc 
+.venv/ 
+venv/ 
+chroma_db/ 
+data/chroma_db/ 
+.idea/ 
+.vscode/ 
+logs/ 
+*.log 
+.env 
+.DS_Store 
+Thumbs.db 
