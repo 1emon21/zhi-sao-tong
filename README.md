@@ -116,14 +116,6 @@ streamlit run app.py
 - **修改提示词**：编辑 `prompts/main_prompt.txt` 和 `prompts/rag_prompt.txt`。
 - **修改检索参数**：编辑 `config/rag.yml` 中的 `chunk_size`、`top_k` 等。
 
-## 🤝 贡献
-
-欢迎提交 Issue 或 Pull Request。如果你有更好的想法，请先开 Issue 讨论。
-
-## 📄 许可证
-
-本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
-
 ## 🙏 致谢
 
 - 感谢 LangChain / LangGraph 社区提供的优秀框架。
